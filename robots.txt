@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seamcraft.example/sitemap.xml
