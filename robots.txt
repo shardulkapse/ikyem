@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seamcraft.example/sitemap.xml
+Sitemap: https://www.seamcraft.in/sitemap.xml
